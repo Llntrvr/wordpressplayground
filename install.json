@@ -18,6 +18,13 @@
                 "resource": "url",
                 "url": "https://download.segpaywordpressplugin.com/"
             }
+        },
+        {
+            "step": "importWxr",
+            "file": {
+                "resource": "url",
+                "url": "https://raw.githubusercontent.com/Llntrvr/wordpressplayground/refs/heads/master/content.wxr"
+            }
         }
     ]
 }
