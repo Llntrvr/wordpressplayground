@@ -1,9 +1,9 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-	"landingPage": "/wp-admin/plugin-install.php",
-	"features": {
-		"networking": true
-	},
+    "landingPage": "/wp-admin/plugin-install.php",
+    "features": {
+        "networking": true
+    },
     "preferredVersions": {
         "php": "8.0",
         "wp": "latest"
