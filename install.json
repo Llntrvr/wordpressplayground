@@ -22,7 +22,7 @@
         {
             "step": "setSiteOptions",
             "options": {
-                "segpay_plugin_x_eticketid": "XXXXXX:XXXXX"
+                "segpay_plugin_x_eticketid": "195625:22682"
             }
         },
         {
