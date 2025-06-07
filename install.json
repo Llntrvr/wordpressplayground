@@ -19,6 +19,12 @@
                 "url": "https://download.segpaywordpressplugin.com/"
             }
         },
+		{
+			"step": "setSiteOptions",
+			"options": {
+				"segpay_plugin_x_eticketid": "XXXXXX:XXXXX",
+			}
+		}        
         {
             "step": "importWxr",
             "file": {
