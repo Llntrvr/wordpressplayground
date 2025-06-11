@@ -15,6 +15,13 @@
         {
             "step": "installPlugin",
             "pluginData": {
+                "resource": "wordpress.org/plugins",
+                "slug": "members"
+            }
+        },
+        {
+            "step": "installPlugin",
+            "pluginData": {
                 "resource": "url",
                 "url": "https://download.segpaywordpressplugin.com/"
             }
